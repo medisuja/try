@@ -1,2 +1,2 @@
 # try
-buat test doang (noob lagi belajar)
+test test
